@@ -1,0 +1,9 @@
+{
+  "firebase": "zayo-pricing",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
