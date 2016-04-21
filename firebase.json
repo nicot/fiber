@@ -1,5 +1,5 @@
 {
-  "firebase": "zayo-pricing",
+  "firebase": "zayo-pricing-ch",
   "public": "public",
   "ignore": [
     "firebase.json",
