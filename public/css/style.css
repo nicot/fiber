@@ -23,3 +23,6 @@ html, body {
 .leaflet-top.leaflet-right {
     display: none;
 }
+.nav{
+	color: #000 !important;
+}
